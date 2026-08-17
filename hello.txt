@@ -1,3 +1,5 @@
 user.name = Youngcoins
 user.email = evansthersoncofie3@gmail.com
 user.password = ************ 
+
+vI am practicing Git branches.
